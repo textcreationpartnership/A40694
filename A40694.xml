@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Fuller's answer to the Jacobites</title>
+            <title>Answer to the Jacobites</title>
+            <author>Fuller, William, 1670-1717?</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40694</idno><idno type="EEBO-CITATION">12251608</idno>
+  <idno type="VID">57125</idno>
+  <idno type="EEBO-PROQUEST">2248546151</idno>
+  
+            <idno type="STC">Wing F2477</idno>
+            <idno type="STC">ESTC R7396</idno>
+            <idno type="OCLC">12251608</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 144:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Fuller's answer to the Jacobites</title>
+                  <title>Answer to the Jacobites</title>
+                  <author>Fuller, William, 1670-1717?</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and to be sold by Eliz. Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James, --  Prince of Wales, 1688-1766.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57125:1"/>
+            <pb facs="tcp:57125:1"/>
+            <p>Mr. <hi>FULLER</hi>'s ANSWER TO THE JACOBITES.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author; and to be Sold by <hi>Eliz. Harris,</hi> at the <hi>Harrow,</hi> in <hi>Little-Britain.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57125:2"/>
+            <pb n="1" facs="tcp:57125:2"/>
+            <head>Mr. <hi>Fuller</hi>'s Answer TO THE JACOBITES.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>THO' with good Reason you conceal your Names, and being not able to stand to what you falsly vent a<g ref="char:EOLhyphen"/>gainst me; yet this one time more I will prove you in the Wrong, of almost every thing that you urge, to invalidate my Testimo<g ref="char:EOLhyphen"/>ny, with relation to that Impo<g ref="char:EOLhyphen"/>stor the Pretended Prince of
+<pb n="2" facs="tcp:57125:3"/>
+               <hi>Wales:</hi> And whereas in the very Beginning of your Letter to me, you say the Gentleman who cha<g ref="char:EOLhyphen"/>stised me lately, had foil'd me; I do frankly leave that to the Judgment of all impartial Persons, who have read his Book, and my Letter to the late Lord Mayor, which neither he nor you cou'd possibly answer upon fair Terms: But having the Bookseller, Printer and Publisher, Zealots for your Cause, you'll say something, tho' to very little Purpose: And, in truth, I scorn such a Parcel of Rascals as you are, and are known to be to the Government; wit<g ref="char:EOLhyphen"/>ness the several times your Cud<g ref="char:EOLhyphen"/>geller of Authors, Mr. <hi>A. Roper,</hi> and his Footman News-writer, the famous Jacobite <hi>Thomas,</hi> with honest Mr. <hi>Beardwell,</hi> that they
+<pb n="3" facs="tcp:57125:3"/> have been in Custody of the Mes<g ref="char:EOLhyphen"/>sengers, summon'd before the Privy-Council, and the like, for printing Seditious News and Pam<g ref="char:EOLhyphen"/>phlets against the Government: Therefore, I say, not to give you further occasion of coming into Custody again, but to deal plain<g ref="char:EOLhyphen"/>ly and truly with all True <hi>English</hi> Men, (whom you term Ignorant) because they cannot believe the Legitimacy of your Darling Sham-Prince, I send this small Paper, which contains such a real Truth, that I am content for ever to be silent, if any Persons on Earth can prove the least Untruth con<g ref="char:EOLhyphen"/>tain'd in it. I shall not trouble my self with your Observations on my going to my Lord Mayor, only say, I was more than once with him, and used Civilly, and
+<pb n="4" facs="tcp:57125:4"/> with Respect: And as for the Selling of my Books, I can ho<g ref="char:EOLhyphen"/>nestly affirm, that in my whole Life, I never clear'd 12 <hi>l.</hi> by all I have wrote; nor was my De<g ref="char:EOLhyphen"/>sign tending to my own Interest, but the Good of my Country, which is a Cause I am very proud to espouse, since I can honestly do it; and am not a whit dis<g ref="char:EOLhyphen"/>courag'd by your Insolence, in saying, (His Majesty and his Sub<g ref="char:EOLhyphen"/>jects cou'd have spar'd me the Tender of it) but I know better Things; and you'll soon, perhaps, to the Purpose, find my Writings will be valued, when you nor yours dare not appear for Fear or Shame (if your Party have any of the latter) and the Gentle<g ref="char:EOLhyphen"/>man I mention'd, and several o<g ref="char:EOLhyphen"/>ther Witnesses for me, are arriv'd
+<pb n="5" facs="tcp:57125:4"/> from <hi>Holland,</hi> and other Parts, ready when the Parliament meets, to prove you Rogues and Lyars. And as for what I averr'd concern<g ref="char:EOLhyphen"/>ing Mr. <hi>Settel</hi>'s asking my Pardon, I can prove it, and both he and you shall find I will; and that the Book you vindicate, intituled, <hi>My Life,</hi> is a Bundle of Untruths, as I prov'd it long since in my Se<g ref="char:EOLhyphen"/>cond Book, publish'd by Mr. <hi>Bald<g ref="char:EOLhyphen"/>win;</hi> and by reason you affirm'd, that Mr. <hi>Settel</hi> wou'd give me a meeting, I call'd at Mr. <hi>Roper</hi>'s Shop on <hi>Saturday</hi> Night, and left Word where he might send to me, and that I desired a meeting speedily: But Mr. <hi>Settel</hi> is a Man very well known, and will say or unsay any thing for Half a Crown, or a lusty Dinner. But I can also prove against him, that he not on<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:57125:5"/> confess'd that Book to be Lyes of his and <hi>Roper</hi>'s Invention, but he added, that <hi>Roper</hi> had many Presents given him by the most considerable <hi>Jacobites,</hi> for his Zeal in abusing me as he did by that Book; and <hi>Settel</hi> own'd, that he came in for a Share of the Pre<g ref="char:EOLhyphen"/>sents also: Nor can there be any Reason to doubt, but the same Party is as kind now as ever, which makes my Antagonist so warm in the Matter.</p>
+            <p>But I purpose not to dispute, but to come to the Matter, and tell you (which is one of your En<g ref="char:EOLhyphen"/>quiries) How His present Majesty came to know the Management of this Supposititious Birth of the Pretended Prince of <hi>Wales,</hi> before I had, as you term it, ham<g ref="char:EOLhyphen"/>mer'd out the Story of Mrs. <hi>Mary
+<pb n="7" facs="tcp:57125:5"/> Grey,</hi> viz. It was discover'd to the King, when Prince of <hi>Orange,</hi> by several Persons of Quality in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> who had been strict Observers of Mrs. <hi>Grey</hi>'s be<g ref="char:EOLhyphen"/>ing brought over big with Child, and the Method which was taken of disposing of her at St. <hi>James</hi>'s, and her being carry'd to <hi>France;</hi> which was not so secretly ma<g ref="char:EOLhyphen"/>nag'd, but that several of His Ma<g ref="char:EOLhyphen"/>jesty's Friends had the Opportu<g ref="char:EOLhyphen"/>nity to pry into the Matter, as sufficiently appears by their De<g ref="char:EOLhyphen"/>positions and Informations, which were given, and are now in the Custody of the present King and His Ministers of State, which is by them apparently own'd; and these said Informations were a plain Proof of that Imposture, in many of the most particular Cir<g ref="char:EOLhyphen"/>cumstances
+<pb n="8" facs="tcp:57125:6"/> of that Management: So that His Majesty, who bears the greatest Abhorrence to any thing that is false, was graciously pleas'd to express himself mildly in the Matter, when he terms his Knowledge of that false Birth, to be grounded on great and violent Presumptions: But His Majesty's Moderation and Goodness has been continually misconstru'd and abus'd, by such absurd and inso<g ref="char:EOLhyphen"/>lent Fellows as our Authors, and their Companions are, who take upon them by all the basest Means imaginable, even to dare the Ju<g ref="char:EOLhyphen"/>stice of the Government, to whom I leave them for their deserv'd Reward. And forasmuch as the Author in the Letter to me has the Assurance to say, that the Number of Witnesses which I of<g ref="char:EOLhyphen"/>fer
+<pb n="9" facs="tcp:57125:6"/> to produce (to prove what I assert) he durst be sworn, should they be call'd for, wou'd be re<g ref="char:EOLhyphen"/>turn'd <hi>non sunt inventi,</hi> like Col. <hi>Dalleval</hi> and Mr. <hi>Hays;</hi> I do aver again, that their Depositions are taken already by the Ministers of State; and because he would in<g ref="char:EOLhyphen"/>sinuate, that the Author of the <hi>Plain Proof</hi> labours under such an Immaturity of Judgment, that K. <hi>James</hi> and his Adherents had so little to fear from him, that they could not but see he would en<g ref="char:EOLhyphen"/>tangle himself, and work his own Ruine, without their being at the Trouble of sending 2 Gentlemen over to draw him into the Noose: To this I shall reply, and be glad of his Answer, That if K. <hi>James,</hi> his Queen, and Adherents had not fear'd my Discoveries, how came
+<pb n="10" facs="tcp:57125:7"/> it to pass, that 12 Months after I left their Service, and had reveal'd all I knew of their Intrigues to His present Majesty, that King <hi>James</hi> shou'd send me (unask'd) his Pardon, under his Hand and Seal; which was brought and left at my Lodgings in the <hi>Pall-mall,</hi> with a Letter from the Earl of <hi>Melford,</hi> then Secretary at St. <hi>Ger<g ref="char:EOLhyphen"/>mains,</hi> assuring me of all imagi<g ref="char:EOLhyphen"/>nable Favour, and Orders where to receive 500 <hi>l.</hi> immediately, provided I wou'd return to <hi>France;</hi> this Pardon I carry'd with the Letter instantly to His present Majesty, who sent me to the Right Honourable the Lord Chief Ju<g ref="char:EOLhyphen"/>stice <hi>Holt,</hi> for his Lordship's Ad<g ref="char:EOLhyphen"/>vice in the Matter several times: And to counterfeit the Hand and Great Seal of the late King, and
+<pb n="11" facs="tcp:57125:7"/> my Lord <hi>Milford</hi>'s Hand, is a thing impossible certainly for any Man to do. And however strange this may seem, I do aver, that it is Truth, and the Pardon and Letter is ready to be produced. And yet further, if K. <hi>James,</hi> &amp;c. had no Apprehensions of my being a material Witness in some Cases that nearly concern'd them, how came they to hire Mr. <hi>James White</hi> to poyson me, by giving him a Reward of 1000 <hi>l.</hi> in Hand, and as much more to be paid as soon as I was dead; as the said Mr. <hi>White</hi> not only confess'd, but has given on Oath before the Secretary of State; and that I were poyson'd, is sufficiently attested by several Doctors, Surgeons, <hi>&amp;c.</hi> and known to many that saw me in that mise<g ref="char:EOLhyphen"/>rable Condition, lying near 12
+<pb n="12" facs="tcp:57125:8"/> Weeks without speaking or stir<g ref="char:EOLhyphen"/>ring, but as I was moved by others, and for 7 Weeks together my Life was not expected one Hour, and the continual Racks the Poy<g ref="char:EOLhyphen"/>son gave me, were such Torments as no Tongue nor Pen can express; nor did their Malice end here, for I can easily prove that I have been often laid in wait for, by such of K. <hi>James</hi>'s Friends as have sworn to have my Life: I have also been assassinated by them, and dange<g ref="char:EOLhyphen"/>rously wounded.</p>
+            <p>And pray, <hi>Gentlemen,</hi> why all this, if my Testimony were not fear'd? Have I not been continu<g ref="char:EOLhyphen"/>ally barbarously treated, even by my Friends, who by the cunning Devices of my Enemies, have been wrought upon to be my mortal E<g ref="char:EOLhyphen"/>nemies? Have I not to the utter<g ref="char:EOLhyphen"/>most
+<pb n="13" facs="tcp:57125:8"/> shared the common hard Fate which attends every one that serves the Publick honestly? Are not all the <hi>Priests, Jesuits, Jacobites,</hi> and <hi>Devils</hi> incarnate, jointly sworn my mortal Enemies? And what wonder then if one simple Fellow, as I own my self to be, should be overcome by them, my Life they may have, as they swear they will, but from the Truth I will never swerve, (as in publick Matters I defie all Mankind to prove <hi>I</hi> ever have.) And in my private con<g ref="char:EOLhyphen"/>cerns, all the Crimes they can fairly charge me with, is my be<g ref="char:EOLhyphen"/>ing in Debt, which I hope sud<g ref="char:EOLhyphen"/>dainly to remove: And <hi>I</hi> may truly say, most of those Debts were contracted in the Nation's Service, but <hi>I</hi> shall forbear to re<g ref="char:EOLhyphen"/>flect on the unkind Usage <hi>I</hi> have met with.</p>
+            <pb n="14" facs="tcp:57125:9"/>
+            <p>There remains Two Questions which this last Author of the Let<g ref="char:EOLhyphen"/>ter to me desires me to answer, which <hi>I</hi> readily comply with: The First is, Did not Mr. <hi>John Salis<g ref="char:EOLhyphen"/>bury,</hi> Bookseller, at the <hi>Rising Sun,</hi> in <hi>Cornhill,</hi> buy the very Letters which are inserted in the <hi>Plain Proof</hi> of Mr. <hi>William Fuller,</hi> for a Parcel of Guinea's, 3 or 4 Years since, and after Enquiry at <hi>Court</hi> about the Truth of them, rather chose to sit down with the Loss of his Copy-money, than print such horrid Falshoods?</p>
+            <p>To this <hi>I</hi> answer, That about 4 Years since, Mr. <hi>Salisbury</hi> did a<g ref="char:EOLhyphen"/>gree with me for the Copy of a Book, which was begun by me, and had 13 Letters in it, to prove that the late King <hi>James</hi> and his Ministers had from time to time
+<pb n="15" facs="tcp:57125:9"/> been privy to all the Conspiracies in <hi>England</hi> since the Revolution, and that it had been by K. <hi>James</hi>'s immediate Order, that Persons had several times form'd Designs of assassinating his present Maje<g ref="char:EOLhyphen"/>sty: And all the Letters Mr. <hi>Sa<g ref="char:EOLhyphen"/>lisbury</hi> had were only relating to that Matter, and not to the Birth of the Pretended Prince of <hi>Wales,</hi> as our Author would make the World believe, which may be seen by the said Copies, in the Hands, I presume, of Mr. <hi>Salis<g ref="char:EOLhyphen"/>bury</hi>'s Executors, <hi>&amp;c.</hi> For they are writ by my own Hand, as I took them from the Originals, now in the Hands of the Ministers of State; and as for Mr <hi>Salisbury</hi>'s Enquiry after the Truth of them, it is notoriously false, that any thing was said of their being not
+<pb n="16" facs="tcp:57125:10"/> true; and the Reason they were not printed, was occasion'd by a Dispute betwixt <hi>Salisbury</hi> and Mr. <hi>Baldwin,</hi> concerning some Right the latter claim'd in the Printing of them; so I did not finish the said Book, being desi<g ref="char:EOLhyphen"/>rous first to adjust the Matter be<g ref="char:EOLhyphen"/>twixt them, and offer'd <hi>Salisbury</hi> to return him his 3 Guinea's, he had paid in Earnest for them, pro<g ref="char:EOLhyphen"/>vided he would have return'd the Letters to me, and afterwards have come in equal Sharer with Mr. <hi>Baldwin</hi> and Partners: But <hi>Sa<g ref="char:EOLhyphen"/>lisbury</hi> wou'd not comply on any Terms; so that I going presently after into the Country, the said Letters were not publish'd, and before my return <hi>Salisbury</hi> was dead: But I have obtain'd leave to take these Copies again from
+<pb n="17" facs="tcp:57125:10"/> the Originals, which, with near 200 more goes this Week to the Press; which will demonstrate, that I have honestly answer'd this Enquiry.</p>
+            <p>And as for the next: Has not <hi>William Fuller,</hi> Gent. been down at his Country Seat in <hi>Southampton</hi> Goal this Summer, instead of ven<g ref="char:EOLhyphen"/>turing beyond the Seas, and hold<g ref="char:EOLhyphen"/>ing Disputes with Priests at <hi>Leige</hi> and <hi>Antwerp?</hi>
+            </p>
+            <p>To these I answer, That I was in Prison there for Debts I con<g ref="char:EOLhyphen"/>tracted, in endeavouring to serve the Government, by detecting two Persons that are Out-law'd for High-Treason, and came over in<g ref="char:EOLhyphen"/>to <hi>England,</hi> and were returning from <hi>France</hi> by Vessels that go to <hi>Jersey;</hi> but I being known to some notorious <hi>Jacobites</hi> in that Place,
+<pb n="18" facs="tcp:57125:11"/> they presently gave the Alarm, and by a cunning Stratagem, too tedious here to relate, they got me Arrested for Debt, and then maliciously aspers'd me at their Pleasure; but I came out of that Prison in <hi>May,</hi> and went to <hi>Hol<g ref="char:EOLhyphen"/>land</hi> when the King went over; and after I had been a Fortnight with His Majesty at the <hi>Hague</hi> and <hi>Loo,</hi> I went for <hi>Antwerp,</hi> and staid there conversing every Day with Father <hi>Hunter,</hi> and all the <hi>English</hi> Priests and Nuns there, who treated me several times (a Practice not very common) nor had I enjoy'd it, if they had known me. I was also there in Company of some <hi>English</hi> Noble<g ref="char:EOLhyphen"/>men that reside in that Country; and brought over with me a Copy of the Earl of <hi>A—g</hi>'s Renouncia<g ref="char:EOLhyphen"/>tion
+<pb n="19" facs="tcp:57125:11"/> of the Protestant Religion, which was writ by Father <hi>Hun<g ref="char:EOLhyphen"/>ter</hi>'s own Hand; and several Pre<g ref="char:EOLhyphen"/>sents <hi>I</hi> had given me, which <hi>I</hi> dare say the Priests will not deny, tho' our insolent Author questions my being there: From <hi>Antwerp</hi> I went for <hi>Leige,</hi> but staid there with Fa<g ref="char:EOLhyphen"/>ther <hi>Sabran,</hi> who knew me only 3 Days; and tho' his Reverence thought <hi>I</hi> was return'd to the Church of <hi>Rome</hi> again, I convinc'd him to the contrary, accoring to what <hi>I</hi> told him plainly was 2 hours before <hi>I</hi> left that Place. From whence <hi>I</hi> return'd to <hi>Holland,</hi> and at the latter end of <hi>August</hi> I came over for <hi>England</hi> in the <hi>Bridgman</hi> Sloop, Capt. <hi>Price</hi> Commander, who was my former Acquaintance, by the same Token <hi>I</hi> have not seen him since to pay him for my Pas<g ref="char:EOLhyphen"/>sage,
+<pb n="20" facs="tcp:57125:12"/> in Company of Sir <hi>Tho. Smith,</hi> Lieutenant Colonel of one of His Majesty's Troops of Horse Guards, the Honourable Col. <hi>Stanly,</hi> one of the Grooms of His Majesty's Bed-Chamber, and the Gentleman who carried over the sad News of the Death of his Highness the Duke of <hi>Gloucester;</hi> and in the Vessel there was several other Gentle<g ref="char:EOLhyphen"/>men that knew me: So <hi>I</hi> hope this 2d Enquiry is sufficiently an<g ref="char:EOLhyphen"/>swer'd; and <hi>I</hi> shall shortly pub<g ref="char:EOLhyphen"/>lish the History of my Voyage into <hi>Holland</hi> and <hi>Flanders.</hi> And this may serve for the present.</p>
+            <p>Leaving our late Author, <hi>I</hi> beg leave to inform the Reader, that whereas it is by many confidently affirm'd and believed, that <hi>I</hi> was concern'd with one <hi>Ro. Young</hi> and <hi>Blackhead,</hi> in a most wicked De<g ref="char:EOLhyphen"/>sign
+<pb n="21" facs="tcp:57125:12"/> against the Lives and Honours of the Right Reverend the Lord Bishop of <hi>Rochester,</hi> and other Per<g ref="char:EOLhyphen"/>sons of Quality, <hi>I</hi> do here affirm, that <hi>I</hi> never saw the said <hi>Young</hi> to my knowledge, until after he was committed to the <hi>King's-Bench,</hi> for that horrid Crime; nor did <hi>I</hi> ever to my knowledge see <hi>Blackhead</hi> his Companion: And forasmuch as this Report has been very preju<g ref="char:EOLhyphen"/>dicial to me, and is groundless and false, <hi>I</hi> do humbly appeal to the Lord Bishop of <hi>Rochester,</hi> who <hi>I</hi> am sure is so just, as to clear me from that Aspersion. And further <hi>I</hi> offer, that if his Lordship does accuse me of being directly or in<g ref="char:EOLhyphen"/>directly concern'd with the said <hi>Young</hi> and <hi>Blackhead</hi> in their abomi<g ref="char:EOLhyphen"/>nable Practices against his Lord<g ref="char:EOLhyphen"/>ship, <hi>I</hi> will then be content never
+<pb n="22" facs="tcp:57125:13"/> to speak, or write more in my own Defence.</p>
+            <p>To conclude all, <hi>I</hi> am very ready to answer any Objection a<g ref="char:EOLhyphen"/>gainst me that is reasonable; but <hi>I</hi> hope it will not diminish the Validity of what <hi>I</hi> have publish'd, if <hi>I</hi> for the future stick close to the Matter, and endeavour to bring it to a fair Decision in Par<g ref="char:EOLhyphen"/>liament, instead of regarding the Falshood and Nonsense of a Parcel of Head-strong <hi>Jacobites,</hi> usher'd abroad by Mr. <hi>Roper,</hi> to whom as the Law affords, I shall prove a very humble Servant,</p>
+            <closer>
+               <signed>W. Fuller.</signed>
+               <date>Nov. 4. 1700.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
